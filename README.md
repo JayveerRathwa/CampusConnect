@@ -1,5 +1,11 @@
 # CampusConnect
 
+![Image 1](https://raw.githubusercontent.com/JayveerRathwa/CampusConnect/main/screenshots/signup.png)
+![Image 2](https://raw.githubusercontent.com/JayveerRathwa/CampusConnect/main/screenshots/login.png)
+![Image 3](https://raw.githubusercontent.com/JayveerRathwa/CampusConnect/main/screenshots/home.png)
+![Image 4](https://raw.githubusercontent.com/JayveerRathwa/CampusConnect/main/screenshots/communities.png)
+![Image 5](https://raw.githubusercontent.com/JayveerRathwa/CampusConnect/main/screenshots/searchcommunities.png)
+
 ## Table of Content
 
 - ### [Introduction](#introduction)
